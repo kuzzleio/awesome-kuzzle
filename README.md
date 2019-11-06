@@ -4,8 +4,6 @@
 
 > A curated list of awesome things related to [Kuzzle](https://github.com/kuzzleio/kuzzle).
 
-*Link with ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x16.png) logo are official projects.*
-
 **Table of Content**
 
 - [Administration Tools](#administration-tools)
@@ -24,6 +22,8 @@
 - [Publications](#publications)
   - [Tech Articles](#tech-articles)
   - [Tutorials](#tutorials)
+
+*Link with ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x16.png) logo are official projects.*
 
 ## Administration Tools
 
