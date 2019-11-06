@@ -24,7 +24,7 @@
 - [Publications](#publications)
   - [Tech Articles](#tech-articles)
   - [Tutorials](#tutorials)
-  
+
 ## Administration Tools
 
 - [Kuzzle Admin Console](https://github.com/kuzzleio/kuzzle-admin-console)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): An SPA to administrate your Kuzzle: index and collection management, document creation, realtime subscription and permissions management.
@@ -75,11 +75,11 @@
 - [Vue Kuzzle](https://github.com/kuzzleio/vue-kuzzle)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): A Vue.js plugin shipping the Kuzzle SDK in your components.
 - [Vue.js/CoreUI Boilerplate](https://github.com/kuzzleio/kuzzle-vuejs-coreui-boilerplate)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): A fully fledged boilerplate to kickoff your Kuzzle projects with VueJS, CoreUI and i18n.
 - [Getting Started with Vue.js & Javascript SDK](https://docs.kuzzle.io/sdk/js/6/getting-started/vuejs/standalone/)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Learn how to use the Javascript SDK inside a Vue.js application.
-- [Todo App Example](https://github.com/kuzzleio/kuzzle-how-to/tree/master/todo-MVC-Kuzzle-VueJS): Example of a Todo application with Vue.js and the Javascript SDK.
+- [Todo App Example](https://github.com/kuzzleio/kuzzle-how-to/tree/master/todo-MVC-Kuzzle-VueJS)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Example of a Todo application with Vue.js and the Javascript SDK.
 
 ### React.js
 
-- [React.js & Redux Boilerplate](https://github.com/kuzzleio/kuzzle-react-redux-boilerplate): A fully fledged boilerplate to kickoff your Kuzzle projects with React and Redux.
+- [React.js & Redux Boilerplate](https://github.com/kuzzleio/kuzzle-react-redux-boilerplate)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): A fully fledged boilerplate to kickoff your Kuzzle projects with React and Redux.
 - [Getting Started with React.js & Javascript SDK](https://docs.kuzzle.io/sdk/js/6/getting-started/react/with-redux/)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Learn how to use the Javascript SDK inside a React/Redux application.
 
 ### Flutter
