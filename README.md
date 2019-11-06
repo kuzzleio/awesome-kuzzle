@@ -38,14 +38,14 @@
 
 ## SDKs
 
-- [Javascript](https://github.com/kuzzleio/sdk-javascript) ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Javascript SDK for both Node.js and the browser including multi-protocol and offline resiliency.
-- [Golang](https://github.com/kuzzleio/sdk-go) ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Golang SDK using the WebSocket protocol to communicate with Kuzzle API including offline resiliency.
-- [Java](https://github.com/kuzzleio/sdk-java) ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png)
-- [Android](https://github.com/kuzzleio/sdk-android) ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png)
-- [C#](https://github.com/kuzzleio/sdk-csharp) ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png)
-- [PHP](https://github.com/kuzzleio/sdk-php) ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png)
-- [Dart](https://github.com/prijindal/kuzzle_dart)
-- [Rust](https://github.com/alexandrebouthinon/kuzzle-sdk-rust)
+- [Javascript](https://github.com/kuzzleio/sdk-javascript) ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Javascript SDK for both Node.js and the browser including multi-protocol support and offline resiliency.
+- [Golang](https://github.com/kuzzleio/sdk-go) ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Golang SDK using the WebSocket protocol to communicate with Kuzzle API and including offline resiliency.
+- [Java](https://github.com/kuzzleio/sdk-java) ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Java SDK using the WebSocket protocol to communicate with Kuzzle API and including offline resiliency.
+- [Android](https://github.com/kuzzleio/sdk-android) ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Android SDK using the WebSocket protocol to communicate with Kuzzle API and including offline resiliency.
+- [C#](https://github.com/kuzzleio/sdk-csharp) ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): C# SDK using the WebSocket protocol to communicate with Kuzzle API and including offline resiliency.
+- [PHP](https://github.com/kuzzleio/sdk-php) ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): PHP SDK using the Http protocol to communicate with Kuzzle API.
+- [Dart](https://github.com/prijindal/kuzzle_dart): Dart SDK using the WebSocket protocol to communicate with Kuzzle API and including offline resiliency.
+- [Rust](https://github.com/alexandrebouthinon/kuzzle-sdk-rust): Rust SDK using the Http protocol to communicate with Kuzzle API.
 
 ## Plugins
 
