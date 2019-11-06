@@ -4,8 +4,27 @@
 
 > A curated list of awesome things related to [Kuzzle](https://github.com/kuzzleio/kuzzle).
 
-Link with ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x16.png) logo are official projects.
+*Link with ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x16.png) logo are official projects.*
 
+**Table of Content**
+
+- [Administration Tools](#administration-tools)
+- [SDKs](#sdks)
+- [Plugins](#plugins)
+  - [External services plugins](#external-services-plugins)
+  - [Authentication plugins](#authentication-plugins)
+  - [Boilerplates & examples](#boilerplates--examples)
+  - [Others](#others)
+- [Frontend](#frontend)
+  - [Vue.js](#vuejs)
+  - [React.js](#reactjs)
+  - [Flutter](#flutter)
+- [Devops](#devops)
+  - [Docker & Docker-Compose](#docker--docker-compose)
+- [Publications](#publications)
+  - [Tech Articles](#tech-articles)
+  - [Tutorials](#tutorials)
+  
 ## Administration Tools
 
 - [Kuzzle Admin Console](https://github.com/kuzzleio/kuzzle-admin-console)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): An SPA to administrate your Kuzzle: index and collection management, document creation, realtime subscription and permissions management.
@@ -67,7 +86,9 @@ Link with ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/mast
 
 - [Kuzzle Go](https://github.com/kuzzleio/flutter-demo)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Pokemon Go like application made with Dart SDK, Flutter and Kuzzle.
 
-## Docker Images
+## Devops
+
+### Docker & Docker-Compose
 
 ## Publications
 
