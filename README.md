@@ -18,6 +18,7 @@ Link with ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/mast
 - [Java](https://github.com/kuzzleio/sdk-java)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png)
 - [Android](https://github.com/kuzzleio/sdk-android)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png)
 - [C#](https://github.com/kuzzleio/sdk-csharp)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png)
+- [PHP](https://github.com/kuzzleio/sdk-php)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png)
 - [Dart](https://github.com/prijindal/kuzzle_dart)
 - [Rust](https://github.com/alexandrebouthinon/kuzzle-sdk-rust)
 
@@ -52,13 +53,30 @@ Link with ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/mast
 
 ### Vue.js
 
-- [Vue Kuzzle](https://github.com/kuzzleio/vue-kuzzle)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): A Vue.js plugin shipping the Kuzzle SDK in your components
-- [Vue.js/CoreUI Boilerplate](https://github.com/kuzzleio/kuzzle-vuejs-coreui-boilerplate)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): A fully fledged boilerplate to kickoff your Kuzzle projects with VueJS, CoreUI and i18n 
+- [Vue Kuzzle](https://github.com/kuzzleio/vue-kuzzle)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): A Vue.js plugin shipping the Kuzzle SDK in your components.
+- [Vue.js/CoreUI Boilerplate](https://github.com/kuzzleio/kuzzle-vuejs-coreui-boilerplate)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): A fully fledged boilerplate to kickoff your Kuzzle projects with VueJS, CoreUI and i18n.
+- [Getting Started with Vue.js & Javascript SDK](https://docs.kuzzle.io/sdk/js/6/getting-started/vuejs/standalone/)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Learn how to use the Javascript SDK inside a Vue.js application.
+- [Todo App Example](https://github.com/kuzzleio/kuzzle-how-to/tree/master/todo-MVC-Kuzzle-VueJS): Example of a Todo application with Vue.js and the Javascript SDK.
 
 ### React.js
+
+- [React.js & Redux Boilerplate](https://github.com/kuzzleio/kuzzle-react-redux-boilerplate): A fully fledged boilerplate to kickoff your Kuzzle projects with React and Redux.
+- [Getting Started with React.js & Javascript SDK](https://docs.kuzzle.io/sdk/js/6/getting-started/react/with-redux/)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Learn how to use the Javascript SDK inside a React/Redux application.
+
+### Flutter
+
+- [Kuzzle Go](https://github.com/kuzzleio/flutter-demo)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Pokemon Go like application made with Dart SDK, Flutter and Kuzzle.
+
+## Docker Images
 
 ## Publications
 
 ### Tech Articles
 
 ### Tutorials
+
+- [Keep Only Warm Data](https://github.com/kuzzleio/kuzzle-how-to/tree/master/keep-only-warm-data)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Clean old data from Kuzzle.
+- [Massive Data Import](https://github.com/kuzzleio/kuzzle-how-to/tree/master/massive-data-import)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Quickly import massive amount of data into Kuzzle.
+- [Synchronize Kuzzle with Another Database](https://github.com/kuzzleio/kuzzle-how-to/tree/master/sync-data-to-another-database)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Realtime synchronization of Kuzzle data into another database ([Cassandra](https://cassandra.apache.org)).
+- [Create Realtime IoT Dashboard with Freeboard](https://github.com/kuzzleio/kuzzle-how-to/tree/master/monitor-iot-data-with-freeboard)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Create a real-time visualization for Kuzzle by adding a simple plugin to [Freeboard](https://freeboard.io), an open source dashboard.
+- [Use Kuzzle as an IoT backend With ESP32](https://docs.kuzzle.io/how-to/1/kuzzle-esp32/)![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Develop an IoT application using an ESP32 module and Kuzzle, communicating using MQTT.
