@@ -106,7 +106,7 @@
 
 ## Dart
 
-- [Dart SDK](https://github.com/prijindal/kuzzle_dart)
+- [Dart SDK](https://github.com/prijindal/kuzzle_dart): Dart SDK using the WebSocket protocol to communicate with Kuzzle API and including offline resiliency.
 
 ### Flutter
 
