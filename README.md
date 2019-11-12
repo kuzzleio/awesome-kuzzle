@@ -4,7 +4,7 @@
 
 > A curated list of awesome things related to [Kuzzle](https://github.com/kuzzleio/kuzzle).
 
-[Add your project](#add-your-project)
+:point_right: [Add your project](#add-your-project)
 
 **Table of Content**
 
