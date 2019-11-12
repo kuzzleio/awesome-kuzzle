@@ -4,6 +4,8 @@
 
 > A curated list of awesome things related to [Kuzzle](https://github.com/kuzzleio/kuzzle).
 
+[Add your project](#add-your-project)
+
 **Table of Content**
 
 - [Administration Tools](#administration-tools)
@@ -155,3 +157,8 @@
 - [Use Kuzzle as an IoT backend With ESP32](https://blog.kuzzle.io/use-kuzzle-as-an-iot-backend-with-esp32-mcu) ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Develop an IoT application using an ESP32 module and Kuzzle, communicating using MQTT.
 - [Visualize Kuzzle Data with Google Data Studio](https://blog.kuzzle.io/how-to-visualizing-data-with-kuzzle-analytics-google-data-studio) ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Use Google Data Studio to visualize Kuzzle data.
 - [Visualize Kuzzle Data with Kibana](https://blog.kuzzle.io/visualizing-data-with-kuzzle-analytics-using-kibana) ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Use Kibana to visualize Kuzzle data.
+
+## Add your project
+
+Feel free to add you project by forking this repository and making a pull request.  
+If you don't find any category for your project, you can also propose a new one.
