@@ -123,7 +123,7 @@
 
 ### Install scripts
 
-- [Kuzzle Setup.sh](https://get.kuzzle.io) ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Download and run a Kuzzle stack with a bash oneliner `bash -c "$(curl https://get.kuzzle.io)"`.
+- [Kuzzle Setup.sh](https://github.com/kuzzleio/setup-script) ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Download and run a Kuzzle stack with a bash oneliner `bash -c "$(curl https://get.kuzzle.io)"`.
 - [Kuzzle Stack on Ubuntu Setup](https://github.com/TitanKing/KuzzleKickoffBoilerplate): Install a Kuzzle Stack with a SSL proxy on Ubuntu.
 
 ### Docker & Docker-Compose
