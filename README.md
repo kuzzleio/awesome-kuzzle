@@ -81,6 +81,7 @@
 ## Javascript 
 
 - [Javascript SDK](https://github.com/kuzzleio/sdk-javascript) ![logo](https://raw.githubusercontent.com/kuzzleio/awesome-kuzzle/master/img/logo_black-25x8.png): Javascript SDK for both Node.js and the browser including multi-protocol and offline resiliency.
+- [Kuzzle Angular NgRx](https://github.com/gpulido/kuzzle-ngrx): Ngrx Data and Entity wrapper over the Kuzzle JS sdk for Angular application using [NgRx](https://ngrx.io/)
 
 ### Browser
 
